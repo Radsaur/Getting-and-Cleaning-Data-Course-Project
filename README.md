@@ -1,5 +1,5 @@
-# Getting-and-Cleaning-Data-Course-Project
-## Human Activity Recognition with Smartphones - Getting and Cleaning Data Course Project
+
+# Human Activity Recognition with Smartphones - Getting and Cleaning Data Course Project
 
 This course project requests students to demonstraite their ability collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
 
@@ -14,3 +14,4 @@ The following files have been included in this repo:
 2. a code book "CodeBook.md" 
 3. the tidy data set "tidydata.txt"
 4. the present "README.md" file
+
